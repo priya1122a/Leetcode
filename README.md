@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/priya1122a/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/priya1122a/Leetcode/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/priya1122a/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/priya1122a/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/priya1122a/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
