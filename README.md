@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priya1122a/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/priya1122a/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/priya1122a/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/priya1122a/Leetcode/tree/master/0704-binary-search) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/priya1122a/Leetcode/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
