@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/priya1122a/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/priya1122a/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/priya1122a/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/priya1122a/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priya1122a/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1991-find-the-middle-index-in-array](https://github.com/priya1122a/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priya1122a/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/priya1122a/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1991-find-the-middle-index-in-array](https://github.com/priya1122a/Leetcode/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
