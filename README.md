@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/priya1122a/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/priya1122a/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/priya1122a/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priya1122a/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1672-richest-customer-wealth](https://github.com/priya1122a/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/priya1122a/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/priya1122a/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
 |  |
 | ------- |
