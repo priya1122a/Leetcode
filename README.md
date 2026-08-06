@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priya1122a/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/priya1122a/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/priya1122a/Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/priya1122a/Leetcode/tree/master/0724-find-pivot-index) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priya1122a/Leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/priya1122a/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priya1122a/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
+| [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priya1122a/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/priya1122a/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/priya1122a/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/priya1122a/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/priya1122a/Leetcode/tree/master/0704-binary-search) |
 ## Two Pointers
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priya1122a/Leetcode/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -110,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/priya1122a/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/priya1122a/Leetcode/tree/master/1929-concatenation-of-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
