@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/priya1122a/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
+| [0055-jump-game](https://github.com/priya1122a/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/priya1122a/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priya1122a/Leetcode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/priya1122a/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -119,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/priya1122a/Leetcode/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/priya1122a/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
