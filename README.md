@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/priya1122a/Leetcode/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/priya1122a/Leetcode/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priya1122a/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Sliding Window
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/priya1122a/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/priya1122a/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/priya1122a/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/priya1122a/Leetcode/tree/master/0412-fizz-buzz) |
 ## Queue
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/priya1122a/Leetcode/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/priya1122a/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/priya1122a/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
