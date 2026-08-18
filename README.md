@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/priya1122a/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/priya1122a/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priya1122a/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1672-richest-customer-wealth](https://github.com/priya1122a/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/priya1122a/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/priya1122a/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/priya1122a/Leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/priya1122a/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priya1122a/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priya1122a/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/priya1122a/Leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/priya1122a/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/priya1122a/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Interactive
 |  |
 | ------- |
